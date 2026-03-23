@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/bhavesh_portfolio_publish.html"
+    }
+  ]
+}
